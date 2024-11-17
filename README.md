@@ -1,2 +1,3 @@
 # Termux-github-free-command-list
-List
+apk update&upgrade
+apk install phishing.com 
